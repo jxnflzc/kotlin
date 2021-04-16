@@ -1,8 +1,8 @@
 *.iml
 /.idea
 
-/log/target
-/log/src/test
+*/target
+/target
 
-/pattern/target
+/log/src/test
 /pattern/src/test
